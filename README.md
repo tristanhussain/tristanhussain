@@ -8,8 +8,6 @@
 ---
 
 ## 🛠️ Experience
-<div align="center">
-  <img src="https://img.shields.io/badge/-Twitch-white?style=flat-square&logo=twitch&logoColor=9146FF" />
-  <img src="https://img.shields.io/badge/-AWS-white?style=flat-square&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/-HubSpot-white?style=flat-square&logo=hubspot&logoColor=FF7A59" />
-</div>
+![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=social&logo=twitch)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=social&logo=amazonaws)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=social&logo=hubspot)
