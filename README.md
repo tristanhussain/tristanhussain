@@ -25,3 +25,8 @@
   
   <img src="https://img.shields.io/badge/HubSpot-Software_Engineer_Intern_|_Summer_2025-555555?style=for-the-badge&logo=hubspot&logoColor=white&labelColor=FF7A59" height="32" />
 </div>
+<div align="left">
+  <a href="https://leetcode.com/t_huss">
+    <img src="https://img.shields.io/badge/LeetCode-t__huss-555555?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" height="32" />
+  </a>
+</div>
