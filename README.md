@@ -31,4 +31,4 @@
 
 <br>
 
-![Tristan's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/t_huss?bgColor=light)
+![Tristan's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/t_huss?bgColor=fff)
