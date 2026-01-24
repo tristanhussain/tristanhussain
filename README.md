@@ -1,4 +1,5 @@
 # Hi, I'm Tristan ☀️
+💻Computer Science @ University of Louisville (Spring 2026)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Twitch-Software_Engineer_Intern-555555?style=for-the-badge&logo=twitch&logoColor=white&labelColor=9146FF" height="40" />
