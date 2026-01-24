@@ -1,7 +1,7 @@
 # Hi, I'm Tristan ☀️
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Currently_at-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Currently_at-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="40" />
   <p><b>Software Engineer Intern | Summer 2026</b></p>
 </div>
 
@@ -9,5 +9,8 @@
 
 ## 🛠️ Experience
 
-| [!NOTE] | ![AWS](https://img.shields.io/badge/Fall_2025-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![HubSpot](https://img.shields.io/badge/Summer_2025-HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) |
-| :--- | :--- | :--- |
+<nobr>
+  <img src="https://img.shields.io/badge/AWS-SDE_Intern-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="35" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HubSpot-SWE_Intern-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="35" />
+</nobr>
