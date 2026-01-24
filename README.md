@@ -1,6 +1,11 @@
 ![Dmytro Baida's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/t_huss?theme=dark&bgColor=282828)
+
+
 ## Experience
 
-![Jane](https://img.shields.io/badge/Jane-Technologies-blue?logo=google&logoColor=white)
-![JP Morgan](https://img.shields.io/badge/JP%20Morgan-Chase-black?logo=jpmorgan&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-Intern-0467DF?logo=meta&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-Intern-9146FF?logo=twitch&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-SDE%20Intern-FF9900?logo=amazonaws&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-SWE%20Intern-FF7A59?logo=hubspot&logoColor=white)
+![JPMorgan](https://img.shields.io/badge/JPMorgan-Chase-black?logo=jpmorganchase&logoColor=white)
+![Jane](https://img.shields.io/badge/Jane-Technologies-blue)
+
