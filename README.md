@@ -6,7 +6,7 @@
 <div align="center">
  
   <br>
-  <img src="https://img.shields.io/badge/Twitch-Software_Engineer_Intern-555555?style=for-the-badge&logo=twitch&logoColor=white&labelColor=9146FF" height="55" />
+  <img src="https://img.shields.io/badge/Twitch-Software_Engineer_Intern-555555?style=for-the-badge&logo=twitch&logoColor=white&labelColor=9146FF" height="100" />
   <p><b>Summer 2026 • San Francisco 🌉</b></p>
 </div>
 
