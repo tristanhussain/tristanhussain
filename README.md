@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-CURRENTLY_AT-grey?style=flat-square" height="20" />
+ 
   <br>
   <img src="https://img.shields.io/badge/Twitch-Software_Engineer_Intern-555555?style=for-the-badge&logo=twitch&logoColor=white&labelColor=9146FF" height="55" />
   <p><b>Summer 2026 • San Francisco 🌉</b></p>
