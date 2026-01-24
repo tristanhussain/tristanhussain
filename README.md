@@ -6,6 +6,4 @@
 ![Twitch](https://img.shields.io/badge/Twitch-Intern-9146FF?logo=twitch&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-SDE%20Intern-FF9900?logo=amazonaws&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-SWE%20Intern-FF7A59?logo=hubspot&logoColor=white)
-![JPMorgan](https://img.shields.io/badge/JPMorgan-Chase-black?logo=jpmorganchase&logoColor=white)
-![Jane](https://img.shields.io/badge/Jane-Technologies-blue)
 
