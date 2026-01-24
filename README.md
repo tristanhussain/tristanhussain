@@ -25,6 +25,10 @@
   
   <img src="https://img.shields.io/badge/HubSpot-Software_Engineer_Intern_|_Summer_2025-555555?style=for-the-badge&logo=hubspot&logoColor=white&labelColor=FF7A59" height="32" />
 </div>
+<br>
 
+---
 
-![Tristan's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/t_huss?bgColor=fff)
+<br>
+
+![Tristan's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/t_huss?bgColor=dark)
