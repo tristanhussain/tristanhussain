@@ -1,7 +1,11 @@
 # Hi, I'm Tristan 👋
 
-> [!NOTE]
-> **Currently at Twitch** as a Software Engineer Intern.
+<div align="center">
+  <img src="https://img.shields.io/badge/Currently_At-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="40" />
+  <p><b>Software Engineer Intern | Summer 2026</b></p>
+</div>
+
+---
 
 ## 🛠️ Experience
 ![Twitch](https://img.shields.io/badge/Current-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white) 
