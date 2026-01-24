@@ -1,4 +1,4 @@
-# Hi, I'm Tristan ☀️
+# Tristan ☀️
 💻 Computer Science @ University of Louisville (Spring 2026)
 
 <br>
