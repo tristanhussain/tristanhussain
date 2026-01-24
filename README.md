@@ -27,6 +27,6 @@
 </div>
 <div align="left">
   <a href="https://leetcode.com/t_huss">
-    <img src="https://img.shields.io/badge/LeetCode-t__huss-555555?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" height="32" />
+    <img src="https://leetcode-badge.vercel.app/api?username=t_huss&theme=dark" alt="LeetCode Stats" />
   </a>
 </div>
