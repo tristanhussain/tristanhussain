@@ -27,4 +27,4 @@
 </div>
 
 
-![Dmytro Baida's LeetCode stats light](https://leetcode-badge-sage.vercel.app/badge/t_huss?bgColor=fff)
+![Tristan's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/t_huss?bgColor=fff)
