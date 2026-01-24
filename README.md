@@ -1,4 +1,4 @@
-# Hi, I'm Tristan 👋
+# Hi, I'm Tristan ☀️
 
 <div align="center">
   <img src="https://img.shields.io/badge/Currently_At-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="40" />
