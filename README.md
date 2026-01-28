@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Amazon-Software_Development_Engineer_Intern_|_Fall_2025-555555?style=for-the-badge&logo=amazon&logoColor=white&labelColor=FF9900" height="32" />
   
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <p><b>AWS Labs Team 🧪</b></p>
+  <p>AWS Labs Team 🧪</p>
   <img src="https://img.shields.io/badge/HubSpot-Software_Engineer_Intern_|_Summer_2025-555555?style=for-the-badge&logo=hubspot&logoColor=white&labelColor=FF7A59" height="32" />
   <p><b>Data Enrichment Team 📊</b></p>
 </div>
