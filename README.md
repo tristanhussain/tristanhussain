@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Amazon-Software_Development_Engineer_Intern_|_Fall_2025-555555?style=for-the-badge&logo=amazon&logoColor=white&labelColor=FF9900" height="32" />
   <br>
-  <span><b></b>AWS Labs Team 🧪</span>b></span>
+  <span><b>AWS Labs Team 🧪</b></span>
 
   <br><br>
 
